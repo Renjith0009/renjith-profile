@@ -1,0 +1,13 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.banner{
+    background-image: url(../image/banner.png.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
+
+.Skills-padding{
+    padding: 70px 0;
+}
