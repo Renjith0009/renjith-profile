@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     font-family: "Poppins", sans-serif;
 }
@@ -5,9 +9,17 @@ body{
     background-image: url(../image/banner.png.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 250px;
-}
-
+    /* padding-left: 150px; */
+    justify-content: center;
+    /* padding-bottom: 300px; */
+}   
 .Skills-padding{
     padding: 70px 0;
+}
+.ss{
+    width: 100vw;
+    height: 100vh;
+}
+.pb-4{
+    padding-top: 200px;
 }
